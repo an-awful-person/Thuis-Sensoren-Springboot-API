@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "scheduler.delay",
+    "type": "java.lang.String",
+    "description": "A description for 'scheduler.delay'"
+  },
+  {
+    "name": "processor.class.name",
+    "type": "java.lang.String",
+    "description": "A description for 'processor.class.name'"
+  }
+]}
